@@ -8,5 +8,8 @@ public class FirstClass {
     public void test(){
         int i=0;
         System.out.println(i);
+
+        String string = "i LIKE IDEA";
+        System.out.println(string);
     }
 }
